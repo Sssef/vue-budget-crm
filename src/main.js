@@ -33,14 +33,14 @@ Vue.component('paginate', Paginate)
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: "AIzaSyBddZJwOvzNN0aksS_KAZ04EBbWTwNAM7E",
-	authDomain: "vue-crm-9967c.firebaseapp.com",
-	databaseURL: "https://vue-crm-9967c.firebaseio.com",
-	projectId: "vue-crm-9967c",
-	storageBucket: "vue-crm-9967c.appspot.com",
-	messagingSenderId: "583921661244",
-	appId: "1:583921661244:web:a2a9820ef5be7359a4da39",
-	measurementId: "G-JF6FNJPWD0"
+	apiKey: "yourApiKey",
+	authDomain: "yourAuthDomain",
+	databaseURL: "yourDatabaseURL",
+	projectId: "yourProjectId",
+	storageBucket: "yourStorageBucket",
+	messagingSenderId: "yourMessagingSenderId",
+	appId: "yourAppId",
+	measurementId: "yourMeasurementId"
 }
 
 // Initialize Firebase
